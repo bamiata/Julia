@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:Julia"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         <!-- snausages -->
+         <!-- snausages  -->
     </Application.Resources>
 </Application>
